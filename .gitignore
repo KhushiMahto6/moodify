@@ -14,3 +14,14 @@ Lib/
 *.log
 Pipfile
 Pipfile.lock
+
+# Environment variables
+.env
+
+# Cache & Logs
+.cache/
+*.log
+
+# IDE & Editor files
+.vscode/
+.idea/
