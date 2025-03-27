@@ -1,0 +1,16 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment files
+pyvenv.cfg
+Scripts/
+Lib/
+
+*.log
+Pipfile
+Pipfile.lock
